@@ -1,0 +1,1 @@
+this application use v4l2 driver to capture /dev/video0 and display it on qwidget
